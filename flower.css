@@ -1,0 +1,46 @@
+.banner {
+    font-family: 'Open Sans', sans-serif;
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+
+}
+
+.banner img {
+    width: 600px;
+    height: 800px;
+
+}
+
+.banner {
+    background-color: #E554731A;
+
+
+
+}
+
+.btn-primary {
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+.banner .banner-title {
+    color: #272727;
+
+    font-size: 80px;
+
+    font-weight: 800;
+
+
+}
+
+.banner .banner-description {
+    color: rgba(green, blue, alpha)red;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
