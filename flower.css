@@ -177,3 +177,10 @@ line-height: 30px;
     width: 30px;
     align-items: center;
 }
+
+.footer-end {
+    background-color:aquamarine;
+    text-align: center; 
+    font-size: 50px;
+    font color:white-space;
+}
