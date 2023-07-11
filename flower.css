@@ -22,13 +22,13 @@
 .btn-primary {
     display: inline-flex;
     padding: 20px 43px;
-    align-items: flex-start;
+   align-items: center;
     gap: 10px;
     border-radius: 8px;
-    background: #E55473;
-}
+    background: #E55473;}
+    
 
-.banner .banner-title {
+ .banner .banner-title {
     color: #272727;
 
     font-size: 80px;
@@ -43,4 +43,79 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+}
+
+
+
+.flower-size {
+    width: 310px;
+    height: 460px;
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+}
+
+.feature .feature-top {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.feature-bottom {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.flower-text {
+    display: flex;
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 35px;
+    text-decoration-line: underline;
+    gap: 300px;
+    padding: 25px;
+    margin-left: 20px;
+}
+.feature {
+
+background-color: white;
+}
+
+.deal {
+    display: flex;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+align-items: center;
+} 
+.deal-heading {
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-weight: 800;
+text-align: center;
+padding: 40px 80px 20px 30px;
+
+}
+.deal-body{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.colored {
+   color: #E55473;
+}
+.red-flower{
+    width: 318px;
+height: 420px;
+padding: 30px 80px 20px 10px;
+
 }
